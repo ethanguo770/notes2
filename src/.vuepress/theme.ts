@@ -18,13 +18,15 @@ export default hopeTheme({
   docsDir: "demo/src",
 
   // navbar
-  navbar: navbar,
+  navbar,
 
   footer: "",
 
   displayFooter: false,
 
   pageInfo: ["Author", "Original", "Date", "Category", "Tag", "ReadingTime"],
+
+  fullscreen: true,
 
   blog: {
     description: "野生前端开发者",
