@@ -6,7 +6,7 @@ export default defineUserConfig({
   title: "Amos's Notes",
   description: "amos的学习生活笔记",
 
-  base: "/",
+  base: "/notes2/",
 
   theme,
 });
