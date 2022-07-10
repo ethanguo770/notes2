@@ -2,4 +2,4 @@
 User-agent:*
 Disallow:
 
-Sitemap: http://zhixiankwok.github.io/sitemap.xml
+Sitemap: http://zhixiankwok.github.io/notes2/sitemap.xml
