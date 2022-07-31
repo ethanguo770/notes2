@@ -22,9 +22,4 @@ export default navbar([
     icon: "others",
     link: "/other/",
   },
-  {
-    text: "使用指南",
-    icon: "creative",
-    link: "/guide/",
-  },
 ]);

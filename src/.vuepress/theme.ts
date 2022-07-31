@@ -64,5 +64,6 @@ export default hopeTheme({
         plugins: ["highlight", "math", "search", "notes", "zoom"],
       },
     },
+    components: ["StackBlitz", "Badge"],
   },
 });
